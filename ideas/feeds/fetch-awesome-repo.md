@@ -14,7 +14,7 @@ Features and Requirements:
       - Category
       - GithubUrl
 4.Application Type: Golang CLI App
-5.Code Based on github.com/fluent-qa/qops
+5.Code Based on qops
 6.Also create CLI command for:
   - add aswesome url to configure file
   - run fetch all awesome command
